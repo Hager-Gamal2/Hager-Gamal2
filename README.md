@@ -40,9 +40,10 @@ Passionate about clean code, performance optimization, and continuous learning.
 ---
 
 ## GitHub Analytics
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hager-Gamal2&show_icons=true&hide_title=true&theme=default)
+
+(https://github-readme-stats.vercel.app/api?username=Hager-Gamal2&show_icons=true&hide_title=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hager-Gamal2&layout=compact&theme=default)
 
